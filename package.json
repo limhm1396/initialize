@@ -8,8 +8,7 @@
   "scripts": {
     "tsc:init": "tsc --init",
     "test": "jest",
-    "build": "rm -rf dist && tsc",
-    "preinstall": "yarn build"
+    "build": "rm -rf dist && tsc"
   },
   "keywords": [],
   "author": "",
